@@ -1,3 +1,4 @@
+import React from "react";
 import CourseCard from "./CourseCard";
 
 export default function CourseList({ courses, onAdd, selectedIds }) {
