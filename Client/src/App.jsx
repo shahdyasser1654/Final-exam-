@@ -12,7 +12,8 @@ export default function App() {
   const [selectedIds, setSelectedIds] = useState([]);
 
   const [query, setQuery] = useState("");
-  const [dept, setDept] = useState("ALL");
+ const [dept, setDept] = useState("All");
+
 
   const [courses, setCourses] = useState([]);
   const [loadingCourses, setLoadingCourses] = useState(true);
