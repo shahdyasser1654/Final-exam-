@@ -1,0 +1,7 @@
+[
+  { "id": "CS101", "title": "Intro to Programming", "dept": "CS", "credits": 3, "day": "Mon", "time": "10:00-11:30" },
+  { "id": "CS201", "title": "Data Structures", "dept": "CS", "credits": 3, "day": "Wed", "time": "12:00-13:30" },
+  { "id": "MATH201", "title": "Linear Algebra", "dept": "MATH", "credits": 3, "day": "Mon", "time": "10:30-12:00" },
+  { "id": "ENG101", "title": "Academic Writing", "dept": "ENG", "credits": 2, "day": "Tue", "time": "09:00-10:00" },
+  { "id": "CHEM110", "title": "General Chemistry", "dept": "CHEM", "credits": 4, "day": "Thu", "time": "14:00-16:00" }
+]
